@@ -1,2 +1,1 @@
-# FUTomatic1
-1
+# FUTomatic
